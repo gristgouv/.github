@@ -14,7 +14,6 @@ Certains de nos dépôts sont encore chez betagouv ou numerique-gouv.
 * <https://github.com/betagouv/grist-cron-grist-to-brevo>
 * <https://github.com/betagouv/grist-grav>
 * <https://github.com/betagouv/grist-doc-wk-exporter>
-* <https://github.com/betagouv/grist-redis-exporter>
 
 #### Forks
 
