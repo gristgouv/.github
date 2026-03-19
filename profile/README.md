@@ -17,9 +17,9 @@ Certains de nos dépôts sont encore chez betagouv ou numerique-gouv.
 
 #### Forks
 
-* <https://github.com/betagouv/grist-core>
-* <https://github.com/betagouv/grist-static>
-* <https://github.com/betagouv/grist-help>
+* <https://github.com/gristgouv/grist-core>
+* <https://github.com/gristgouv/grist-static>
+* <https://github.com/gristgouv/grist-help>
 
 ### Archives
 
