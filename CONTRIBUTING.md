@@ -92,7 +92,7 @@ Before letting us know about your widget, make sure it meets the following requi
 > 
 > Whatever tool you use, make sure you understand what the tests are checking and that they actually pass on your code.
 >
-> If you're running an AI agent locally to help you develop or test your widget, we recommend using [agent-vm](https://github.com/sylvinus/agent-vm) to do so safely — it runs the agent in an isolated environment, limiting what it can access or modify on your machine.
+> If you're running an AI agent locally to help you develop or test your widget, we recommend using [agent-vm](https://github.com/sylvinus/agent-vm) to do so safely. It runs the agent in an isolated environment, limiting what it can access or modify on your machine.
 
 
 
