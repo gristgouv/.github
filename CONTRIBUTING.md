@@ -34,7 +34,7 @@ By contributing to this project, you agree to:
 
 ## Your first contribution
 
-Never contributed to an open source project before? Don't worry ,everyone starts somewhere. Here are a few resources to help you get started:
+Never contributed to an open source project before? Don't worry, everyone starts somewhere. Here are a few resources to help you get started:
 
 * [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github), free video series
 * [firsttimersonly.com](https://firsttimersonly.com)
