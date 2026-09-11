@@ -1,3 +1,5 @@
+🇫🇷 [Lire en français](CONTRIBUTING-fr.md)
+
 # Contributing Guide — Grist.Gouv Widgets
 
 Thank you for your interest in contributing to the Grist.Gouv project! It's people like you who help the ecosystem of widgets available to public servants grow and improve.
