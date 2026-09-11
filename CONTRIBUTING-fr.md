@@ -1,3 +1,5 @@
+🇬🇧 [Read in English](CONTRIBUTING.md)
+
 # Guide de contribution, Grist Gouv Widgets
 
 Merci de vous intéresser à la contribution au projet Grist Gouv ! C'est grâce à des personnes comme vous que l'écosystème de widgets disponibles pour les agents publics peut grandir et s'améliorer.
