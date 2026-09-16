@@ -21,6 +21,9 @@ Certains de nos dépôts sont encore chez betagouv ou numerique-gouv.
 * <https://github.com/gristgouv/grist-static>
 * <https://github.com/gristgouv/grist-help>
 
+#### Guides de contribution
+🇫🇷 [Guide de contribution, Grist Gouv Widgets (FR)](https://github.com/gristgouv/.github/blob/main/CONTRIBUTING-fr.md) · 🇬🇧 [Contributing Guide, Grist.Gouv Widgets (EN)](https://github.com/gristgouv/.github/blob/main/CONTRIBUTING.md)
+
 ### Archives
 
 Vous trouverez aussi des archives de nos anciens dépôts qui ne sont plus maintenus
